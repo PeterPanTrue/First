@@ -5,4 +5,7 @@ public class Main {
 		System.out.println("hahahaha");
 		System.out.println("33333333");
 	}
+	public void say(){
+		System.out.println("syso");
+	}
 }
