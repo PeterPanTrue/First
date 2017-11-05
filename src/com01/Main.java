@@ -20,6 +20,7 @@ public class Main {
 		System.out.println(day.getDays());
 		System.out.println(day.getDays());
 		System.out.println(day.getDays());
+		System.out.println(day.getDays());
 
 	} 
 	
