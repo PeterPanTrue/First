@@ -18,6 +18,9 @@ public class Main {
 		Months m=null;
 		Days day=Days.daysBetween(new DateTime("1995-5-5"), new DateTime(new Date()));
 		System.out.println(day.getDays());
+		System.out.println(day.getDays());
+		System.out.println(day.getDays());
+
 	} 
 	
 }
